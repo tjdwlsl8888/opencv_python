@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# pyenv (프로젝트 내에 생성된 경우)
+.python-version
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 동영상 파일들은 용량 크니까 무시해!
+*.mp4
+*.avi
+
+# 이미지 원본들도 무시해!
+*.jpg
+*.png
